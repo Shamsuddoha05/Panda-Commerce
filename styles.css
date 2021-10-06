@@ -3,5 +3,14 @@
 }
 .customed-button{
     background-color: #ff4891;
-    text-decoration-color: aliceblue;
+    color: aliceblue;
+}
+.bg-orange{
+    background-color: #ffa500;
+}
+.bg-pink{
+    background-color: #da70d6;
+}
+.bg-blue{
+    background-color: #0000ff;
 }
